@@ -5,9 +5,9 @@ html {
 body {
     margin: 0;
     font-family: "Work Sans", sans-serif;
-    background-image: url(/img/love\ image.jpeg);
+    background-image: url(/img/vector.jpg);
     background-color: black;
-    color: white;
+    color: black;
 }
 
 .container {
@@ -235,6 +235,9 @@ body {
 .nine p {
     font-size: 2rem;
     font-weight: lighter;
+}
+#imagepath {
+    width: 300px;
 }
 
 #replay {
